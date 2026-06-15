@@ -12,7 +12,6 @@ Built for the **FIND EVIL! Hackathon 2026**, PhishShield AI is a next-generation
 ## 🛠️ Tech Stack
 * **Language:** Python 3.11
 * **Frontend:** Streamlit
-* **AI Orchestration:** Google GenAI SDK (Gemini 2.5 Flash)
 
 * ## 🚀 Quickstart & Installation
 
